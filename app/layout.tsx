@@ -34,7 +34,7 @@ export default function RootLayout({
         <CssBaseline />
         <body>
           <main>
-            <Box width={4 / 5} m="auto" bgcolor={"red"}>
+            <Box width={4 / 5} m="auto" bgcolor={"dodgerblue"}>
               <nav>
                 <Link href="/">Home</Link>
                 <Link href="/blog">Blog</Link>
